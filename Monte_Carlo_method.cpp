@@ -8,7 +8,6 @@ int adpt[32767];
 
 int main()
 {
-	setlocale(LC_ALL, "russian");
 	const int L = 15;
 
 	string maxS, old_maxS;
