@@ -1,4 +1,4 @@
-#include <iostream> //Neighbor joining
+#include <iostream>
 #include <ctime>
 using namespace std;
 
