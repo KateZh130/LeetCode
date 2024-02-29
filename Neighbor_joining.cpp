@@ -4,7 +4,6 @@ using namespace std;
 
 int main()
 {
-    setlocale(LC_ALL, "russian");
     srand(time(NULL));
     double Q = 0; //summ
     const int N = 15; //number of cities
